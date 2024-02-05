@@ -27,19 +27,60 @@ Add facility to cancel booking
 
 import java.util.*;
 
+
 class Bus{
     String busNumber;
     int numberOfSeats;
-    boolean isAvialable[]=new boolean[numberOfSeats];
     double fare;
     String sourceStop;
     String destination;
+    // Constructor
     Bus(String busNo,int noOfSeats,double fare,String source,String destination){
         this.busNumber=busNo;
         this.numberOfSeats=noOfSeats;
         this.fare=fare;
         this.sourceStop=source;
         this.destination=destination;
+    }
+    // Getter ans Setters
+    void setBusNumber(String bNo){
+        this.busNumber=bNo;
+    }
+    String getBusNumber(){
+        return this.busNumber;
+    }
+    void setFare(double f){
+        this.fare=f;
+    }
+    double getFare(){
+        return this.fare;
+    }
+    void setSource(String s){
+        this.sourceStop=s;
+    }
+    String getSource(){
+        return this.sourceStop;
+    }
+    void setDestination(String d){
+        this.destination=d;
+    }
+    String getDestination(){
+        return this.destination;
+    }
+
+
+
+
+
+
+
+
+
+    public void bookBus(){
+
+    }
+    public void cancelBooking(){
+
     }
      
 }
@@ -58,6 +99,20 @@ class CustomerDetails{
         this.customerName=name;
         this.contactNumber=contact;
     }
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
     public void showDetails(){
         System.out.print("Booked Seats:");
         for(int i=0;i<bookedSeats.size();i++){
