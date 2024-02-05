@@ -1,0 +1,23 @@
+There are 10 busses available, and they run on one route from Mumbai to pune, and pune to mumbai vise versa everyday 
+You have to create task to book bus (Right now we will focus on full bus booking)
+Bus will have property like bus number, number of seats and fare
+
+Add facility to check availability for date
+Add facility to book bus
+Add facility to enter customer details while booking
+Add facility to print bus booking like bellow
+
+Booking Bill
+---------------------
+Agency name: xyz travels, Date:
+Bus number: 
+Booked seats:
+Source stop:pune
+destination:mumbai
+------------------------
+Customer name: Contact:
+------------------------
+Total Fare:
+-----------------------
+
+Add facility to cancel booking
