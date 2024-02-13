@@ -9,15 +9,12 @@ import java.util.LinkedHashMap;
 import java.util.Map;
 import java.util.Scanner;
 
-
 enum Route1{
     pune,mumbai
 }
 enum Route2{
     mumbai,pune
 }
-
-
 public class Client  {
     
     static Map<LocalTime, Bus> mumbaiTOpuneTime = new LinkedHashMap<>();
