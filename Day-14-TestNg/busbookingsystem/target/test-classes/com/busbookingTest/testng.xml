@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="All Test Suite">
+    <test verbose="2" preserve-order="true" name="/home/nitya-object/All Tasks/NewSystem/busbookingsystem/src/test/java/com/busbookingTest/BusBookingTest.java">
+        <classes>
+            <class name="com.busbookingTest.BusBookingTestNg">
+                <methods>
+                    <include name="checkAvailabilityTest"/>
+                    <include name="printBookingDetailsTest"/>
+                    <include name="bookSeatsTest"/>
+                    <include name="cancelBooking"/>
+                    <include name="CheckAvailability_NoBusFound_Test"/>
+                    <include name="bookSeats_NotEnoughSeats_Test"/>
+                    <include name="bookSeats_NoBusFound_Test"/>
+                    <include name="printBookingDetails_BookingNotFound_Test"/>
+                    <include name="cancelBooking_BookingNotFound_Test"/>
+                </methods>
+            </class>
+        </classes>
+    </test>
+</suite>
