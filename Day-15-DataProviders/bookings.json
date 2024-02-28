@@ -1,0 +1,15 @@
+[
+    {
+        "bookingId": 9561,
+        "busNumber": "Bus0018",
+        "passengerName": "Aniket",
+        "bookedSeats": 20,
+        "bookingDate": "2024-02-23",
+        "bookingTime": "23:00",
+        "route": {
+            "source": "pune",
+            "destination": "mumbai"
+        },
+        "fare": 2410.0
+    }
+]
