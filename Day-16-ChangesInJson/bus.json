@@ -1,0 +1,195 @@
+{
+    "Bus0011": {
+        "time":"06:00",
+        "route": {
+            "source": "pune",
+            "destination": "mumbai"
+        },
+        "totalSeats": 30,
+        "availableSeats": 30,
+        "fare": 120.5
+    },
+    "Bus0012": {
+        "time":"08:00",
+        
+        "route": {
+            "source": "pune",
+            "destination": "mumbai"
+        },
+        "totalSeats": 30,
+        "availableSeats": 30,
+        "fare": 120.5
+    },
+    "Bus013": {
+        "time":"10:00",
+       
+        "route": {
+            "source": "pune",
+            "destination": "mumbai"
+        },
+        "totalSeats": 30,
+        "availableSeats": 30,
+        "fare": 120.5
+    },
+    "Bus001": {
+        "time":"07:00",
+        "route": {
+            "source": "mumbai",
+            "destination": "pune"
+        },
+        "totalSeats": 20,
+        "availableSeats": 20,
+        "fare": 120.5
+    },
+    "Bus0014": {
+        "time":"12:00",
+        "route": {
+            "source": "pune",
+            "destination": "mumbai"
+        },
+        "totalSeats": 30,
+        "availableSeats": 30,
+        "fare": 120.5
+    },
+    "Bus0015": {
+        "time":"14:00",
+        "route": {
+            "source": "pune",
+            "destination": "mumbai"
+        },
+        "totalSeats": 30,
+        "availableSeats": 30,
+        "fare": 120.5
+    },
+    "Bus002": {
+        "time":"09:00",
+        "route": {
+            "source": "mumbai",
+            "destination": "pune"
+        },
+        "totalSeats": 20,
+        "availableSeats": 20,
+        "fare": 120.5
+    },
+    "Bus0016": {
+        "time":"16:00",
+        "route": {
+            "source": "pune",
+            "destination": "mumbai"
+        },
+        "totalSeats": 30,
+        "availableSeats": 30,
+        "fare": 120.5
+    },
+    "Bus003": {
+        "time":"11:00",
+        "route": {
+            "source": "mumbai",
+            "destination": "pune"
+        },
+        "totalSeats": 20,
+        "availableSeats": 20,
+        "fare": 120.5
+    },
+    "Bus0017": {
+        "time":"18:00",
+        "route": {
+            "source": "pune",
+            "destination": "mumbai"
+        },
+        "totalSeats": 30,
+        "availableSeats": 30,
+        "fare": 120.5
+    },
+    "Bus004": {
+        "time":"13:00",
+        "route": {
+            "source": "mumbai",
+            "destination": "pune"
+        },
+        "totalSeats": 20,
+        "availableSeats": 20,
+        "fare": 120.5
+    },
+    "Bus0018": {
+        "time":"20:00",
+        "route": {
+            "source": "pune",
+            "destination": "mumbai"
+        },
+        "totalSeats": 30,
+        "availableSeats": 30,
+        "fare": 120.5
+    },
+    "Bus005": {
+        "time":"15:00",
+        "route": {
+            "source": "mumbai",
+            "destination": "pune"
+        },
+        "totalSeats": 30,
+        "availableSeats": 30,
+        "fare": 120.52
+    },
+    "Bus006": {
+        "time":"17:00",
+        "route": {
+            "source": "mumbai",
+            "destination": "pune"
+        },
+        "totalSeats": 20,
+        "availableSeats": 20,
+        "fare": 120.5
+    },
+    "Bus007": {
+        "time":"19:00",
+        "route": {
+            "source": "mumbai",
+            "destination": "pune"
+        },
+        "totalSeats": 20,
+        "availableSeats": 20,
+        "fare": 120.5
+    },
+    "Bus008": {
+        "time":"21:00",
+        "route": {
+            "source": "mumbai",
+            "destination": "pune"
+        },
+        "totalSeats": 20,
+        "availableSeats": 20,
+        "fare": 120.5
+    },
+    "Bus0019": {
+        "time":"22:00",
+        "route": {
+            "source": "pune",
+            "destination": "mumbai"
+        },
+        "totalSeats": 30,
+        "availableSeats": 30,
+        "fare": 120.5
+    },
+    
+    "Bus009": {
+        "time":"23:00",
+        "route": {
+            "source": "mumbai",
+            "destination": "pune"
+        },
+        "totalSeats": 20,
+        "availableSeats": 20,
+        "fare": 120.5
+    },
+    "Bus0020": {
+        "time":"23:00",
+        "route": {
+            "source": "pune",
+            "destination": "mumbai"
+        },
+        "totalSeats": 30,
+        "availableSeats": 30,
+        "fare": 120.5
+    }
+}
