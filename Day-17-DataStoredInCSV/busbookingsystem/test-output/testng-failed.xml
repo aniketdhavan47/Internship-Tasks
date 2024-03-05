@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [All Test Suite]" guice-stage="DEVELOPMENT">
+  <test thread-count="5" name="/home/nitya-object/All Tasks/NewSystem/busbookingsystem/src/test/java/com/busbookingTest/BusBookingTest.java(failed)">
+    <classes>
+      <class name="com.busbookingTest.BusBookingTestNg">
+        <methods>
+          <include name="bookSeats_NoBusFound_Test"/>
+        </methods>
+      </class> <!-- com.busbookingTest.BusBookingTestNg -->
+    </classes>
+  </test> <!-- /home/nitya-object/All Tasks/NewSystem/busbookingsystem/src/test/java/com/busbookingTest/BusBookingTest.java(failed) -->
+</suite> <!-- Failed suite [All Test Suit  -->
